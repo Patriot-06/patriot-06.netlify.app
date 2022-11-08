@@ -2,7 +2,7 @@
 title: "About"
 date: 2022-11-08
 ---
-Hey There! I'm a 17 y.o High School Student, Currently lying in 10th Grade. I'm learning more about Linux kernel & [AOSP (Android Open Source Project](https://source.android.com/) Development. I have Intermediate knowledge of C/C++ & Bash, I am Interested in Linux Distro's and AOSP & Linux Kernel Development.
+Hey There! I'm a 17 y.o High School Student, Currently lying in 10th Grade. I'm learning more about Linux kernel & [AOSP (Android Open Source Project)](https://source.android.com/) Development. I have Intermediate knowledge of C/C++ & Bash, I am Interested in Linux Distro's and AOSP & Linux Kernel Development.
 
 ## Linux Kernel
 
