@@ -1,0 +1,77 @@
+defaultContentLanguage = "en"
+paginate = 20
+pygmentsStyle = "bw"
+pygmentsCodeFences = true
+pygmentsCodeFencesGuessSyntax = true
+enableEmoji = true
+
+
+[params]
+author = "Momin Bhat (Patriot-06)"
+description = "Momin Bhat's' personal website"
+info = ["Aspiring Student | AOSP & Linux Kernel Enthusiast | Amateur Android Developer"]
+avatarURL = "images/avatar.jpg"
+
+since = 2022
+
+colorScheme = "auto"
+# Hide the toggle button, along with the associated vertical divider
+hideColorSchemeToggle = false
+# Series see also post count
+maxSeeAlsoItems = 5
+# Custom CSS
+customCSS = []
+# Custom SCSS, file path is relative to Hugo's asset folder (default: {your project root}/assets)
+customSCSS = []
+# Custom JS
+customJS = []
+
+[taxonomies]
+category = "categories"
+series = "series"
+tag = "tags"
+author = "authors"
+
+[[params.social]]
+name = "Github"
+icon = "fa fa-2x fa-github"
+weight = 1
+url = "https://github.com/Patriot-06/"
+
+[[params.social]]
+name = "Gitlab"
+icon = "fa fa-2x fa-gitlab"
+weight = 2
+url = "https://gitlab.com/Patriot-06/"
+
+[[params.social]]
+name = "Instagram"
+icon = "fa fa-2x fa-instagram"
+weight = 3
+url = "https://instagram.com/ig_patriot06/"
+
+[[params.social]]
+name = "XDA"
+icon = "fa fa-2x fa-code"
+weight = 4
+url = "https://forum.xda-developers.com/m/patriot-06.11800227/"
+
+[[params.social]]
+name = "Telegram"
+icon = "fa fa-2x fa-telegram"
+weight = 5
+url = "https://t.me/patriot_235"
+
+[[menu.main]]
+name = "About"
+weight = 1
+url = "about/"
+
+[[menu.main]]
+name = "Machine"
+weight = 2
+url = "machine/"
+
+[module]
+[module.hugoVersion]
+min = "0.105.0"

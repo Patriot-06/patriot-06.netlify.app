@@ -1,0 +1,5 @@
+baseURL = 'http://Patriot-06.github.io'
+languageCode = 'en-us'
+title = 'Momin Bhat'
+keywords = "developer,personal,Patriot-06"
+theme = 'hugo-coder'
