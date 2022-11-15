@@ -11,9 +11,9 @@ date: 2022-11-08
 
 ## Software
 
--   **OS:**  Windows 11
+-   **OS:**  Archcraft OS
 -   **Browser:**  FireFox
 -   **Terminal:**  alacritty-terminal
--   **Shell:**  powershell
--   **Editor:**  VS Code, Sublime-Text
+-   **Shell:**  zsh
+-   **Editor:**  VS Code, neovim
 -   **Site**: Hugo + Github
